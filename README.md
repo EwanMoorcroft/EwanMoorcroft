@@ -14,7 +14,7 @@ on a profile page.
 ## A few projects
 
 - [Liverpool urban accessibility](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/liverpool-urban-accessibility): Census workplace-flow analysis using DuckDB, GeoPandas, spatial statistics, count models, R, and Docker.
-- [FPL next-gameweek forecasting](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/fpl-forecasting): chronological forecasting with recent-form baselines, leakage checks, ranking measures, and retained historical evaluation.
+- [FPL next-gameweek forecasting](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/fpl-forecasting): chronological forecasting with leakage checks, season-bound batch scoring, DuckDB storage, and a small read-only local service.
 - [Tree LiDAR benchmark](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/tree-lidar-benchmark): MSc research comparing six methods across two routes per method on 49.7 million aligned test points.
 - [Chest X-ray classification](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/chest-xray-classification): a public-dataset training pipeline with exact-copy containment and calibration-aware evaluation.
 
