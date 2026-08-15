@@ -8,8 +8,6 @@ machine learning, and the less glamorous work needed to make results trustworthy
 background is useful whenever a dataset has a real place, scale, or environmental context behind it.
 
 All project code is kept in one repository: [Ewan Moorcroft Portfolio](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio).
-This small repository exists only because GitHub uses a username-matching README for the text shown
-on a profile page.
 
 ## A few projects
 
