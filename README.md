@@ -12,9 +12,9 @@ All my portfolio code is kept in one repository: [Ewan Moorcroft Portfolio](http
 ## A few projects
 
 - [Liverpool urban accessibility](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/liverpool-urban-accessibility): Census workplace-flow analysis using DuckDB, GeoPandas, spatial statistics, count models, R, and Docker.
-- [FPL next-gameweek forecasting](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/fpl-forecasting): chronological forecasting with recent-form baselines, leakage checks, ranking measures, and retained historical evaluation.
+- [FPL next-gameweek forecasting](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/fpl-forecasting): Chronological forecasting with recent-form baselines, leakage checks, ranking measures, and retained historical evaluation.
 - [Tree LiDAR benchmark](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/tree-lidar-benchmark): MSc research creating a reproducible benchmark for individual tree segmentation.
-- [Chest X-ray classification](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/chest-xray-classification): a public-dataset training pipeline with exact-copy containment and calibration-aware evaluation.
+- [Chest X-ray classification](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/chest-xray-classification): A public-dataset training pipeline with exact-copy containment and calibration-aware evaluation.
 
 I also use scikit-learn, PyTorch, pandas, NumPy, SQL, QGIS, R, pytest, and GitHub Actions. The main
 portfolio gives the data sources, tests, limitations, and result status for each project.
