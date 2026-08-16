@@ -8,6 +8,9 @@ learning. My Geography background is useful when working with place, scale, and 
 while my MSc builds on that with data science and AI methods.
 
 All my portfolio code is kept in one repository: [Ewan Moorcroft Portfolio](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio).
+The current code may be viewed, cited and run for professional evaluation under
+[evaluation-only terms](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/blob/main/LICENSE),
+but not reused in other work.
 
 ## Selected projects
 
