@@ -1,22 +1,20 @@
 # Ewan Moorcroft
 
 I am an MSc Data Science and Artificial Intelligence student at the University of Liverpool,
-finishing in September 2026. I completed a BSc in Geography there in June 2025.
+finishing in September 2026. I completed my BSc in Geography at the University of Liverpool in June 2025.
 
 Most of my work is in Python. I am interested in spatial data, forecasting, statistical modelling,
 machine learning, and the less glamorous work needed to make results trustworthy. My Geography
-background is useful whenever a dataset has a real place, scale, or environmental context behind it.
+background has increased my skills when using a dataset that involves place, scale, or environmental context.
 
-All project code is kept in one repository: [Ewan Moorcroft Portfolio](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio).
-This small repository exists only because GitHub uses a username-matching README for the text shown
-on a profile page.
+All my portfolio code is kept in one repository: [Ewan Moorcroft Portfolio](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio).
 
 ## A few projects
 
 - [Liverpool urban accessibility](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/liverpool-urban-accessibility): Census workplace-flow analysis using DuckDB, GeoPandas, spatial statistics, count models, R, and Docker.
 - [FPL next-gameweek forecasting](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/fpl-forecasting): chronological forecasting with leakage checks, season-bound batch scoring, DuckDB storage, and a small read-only local service.
-- [Tree LiDAR benchmark](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/tree-lidar-benchmark): MSc research comparing six methods across two routes per method on 49.7 million aligned test points.
-- [Chest X-ray classification](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/chest-xray-classification): a public-dataset training pipeline with exact-copy containment and calibration-aware evaluation.
+- [Tree LiDAR benchmark](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/tree-lidar-benchmark): MSc research creating a reproducible benchmark for individual tree segmentation.
+- [Chest X-ray classification](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio/tree/main/projects/chest-xray-classification): A public-dataset training pipeline with exact-copy containment and calibration-aware evaluation.
 
 I also use scikit-learn, PyTorch, pandas, NumPy, SQL, QGIS, R, pytest, and GitHub Actions. The main
 portfolio gives the data sources, tests, limitations, and result status for each project.
