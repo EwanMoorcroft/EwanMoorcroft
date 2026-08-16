@@ -3,9 +3,9 @@
 I am an MSc Data Science and Artificial Intelligence student at the University of Liverpool,
 finishing in September 2026. I completed my BSc in Geography at the University of Liverpool in June 2025.
 
-Most of my work is in Python. I am interested in spatial data, forecasting, statistical modelling,
-machine learning, and the less glamorous work needed to make results trustworthy. My Geography
-background has increased my skills when using a dataset that involves place, scale, or environmental context.
+I work mainly in Python across spatial data, GIS, forecasting, statistical modelling, and machine
+learning. My Geography background is useful when working with place, scale, and environmental context,
+while my MSc builds on that with data science and AI methods.
 
 All my portfolio code is kept in one repository: [Ewan Moorcroft Portfolio](https://github.com/EwanMoorcroft/Ewan-Moorcroft-Portfolio).
 
